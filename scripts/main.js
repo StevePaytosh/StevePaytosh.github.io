@@ -5,9 +5,7 @@ var ex1=$("#example1");
 var ex2=$("#example2");
 var ex3=$("#example3");
 
-setWorkExampleElement(ex1,1);
-setWorkExampleElement(ex2,2);
-setWorkExampleElement(ex3,3);
+
 
 function setWorkExampleElement(example,exampleNumber)
 {
