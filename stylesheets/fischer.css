@@ -4,7 +4,7 @@ table {
   border:3px solid #666;
   width: 580px;
   height: 580px;
-  margin: 10px 0 0 25vw;
+  margin: 10px auto;
 }
 
 td {
@@ -46,7 +46,7 @@ h1{
 #info{
   background-color:white;
   width:580px;
-  margin: 10px 0 0 25vw;
+  margin: auto;
   border: solid black;
   padding: 5px 0 5px 10px;
 }
